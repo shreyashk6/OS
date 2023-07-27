@@ -81,4 +81,4 @@ Enter your choice:2
 Consumer consumes item 1
 Enter your choice:2
 Buffer is empty!!
-Enter your choice:3*
+Enter your choice:3/*
